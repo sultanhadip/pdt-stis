@@ -1,0 +1,6 @@
+.invalid-feedback {
+    color: #dc3545; /* Warna merah standar Bootstrap untuk kesalahan */
+    display: block;
+    margin-top: 0.25rem;
+    font-size: 80%;
+}

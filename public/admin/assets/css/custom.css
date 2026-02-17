@@ -1,0 +1,15 @@
+/* custom.css */
+.year-button {
+    font-size: 12px;
+    padding: 5px 10px;
+    margin-right: 20px; /* Mengurangi jarak antara tombol */
+    background-color: #336ead; /* Warna latar belakang standar */
+    color: #fff; /* Warna teks standar */
+    border: none;
+    border-radius: 5px;
+}
+
+.year-button.active {
+    background-color: #fff; /* Warna latar belakang saat tombol dipilih */
+    color: #336ead; /* Warna teks saat tombol dipilih */
+}
